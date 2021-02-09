@@ -1,7 +1,8 @@
 # DSLR
 The DSLR project uses the Wolverine components on an open board that allows for a larger camera to be used because there are no stock Wolverine mechanical constraints such as clearance to the front panel,  access to the gate etc.
 Here is a brief instruction on how to use the system:
-Setup the DSLR rig with using teh Wolverine components.
+
+Setup the DSLR rig using the Wolverine components.
 Set the camera to video mode. Adjust the camera alignment and focus.
 Start video recording and start the scan in 2 FPS mode.
 Once done copy the video to a work directory o a widows machine.
