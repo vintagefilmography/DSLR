@@ -19,7 +19,6 @@ Find the first stable image and note what sequence number it is.
 Go back to teh work directory and ctrate the sedtination directory and call it something like pics1 or whatever convenoent.
 Now create teh following dos shell copy script:
 
-===============
 SET Input_PATCH1=pics
 SET Input_PATCH2=pics1
 
@@ -35,7 +34,8 @@ GOTO :eof
 set /a j=(%1-86)/15
 copy  %Input_PATCH1%\%1.jpg %Input_PATCH2%\%j%.jpg 
 GOTO :eof
-===============
+
+
 Create video from images in the pics1 directory.
 
 ffmpeg -i pics1\%d.jpg -r 20 -vcodec mpeg4 -b:v 8M test1.mp4
