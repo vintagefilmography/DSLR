@@ -1,0 +1,36 @@
+Partlist
+
+Exported from interface.sch at 2/27/2021 1:15 PM
+
+EAGLE Version 9.4.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value              Device             Package                        Library             Sheet
+
+C1       UMA1H010MDD1TP     UMA1H010MDD1TP     CAPPRD150W45D450H600           UMA1H010MDD1TP      1
+C2       C322C104K5R5TA7303 C322C104K5R5TA7303 C322                           C322C104K5R5TA7303  1
+C3       C322C104K5R5TA7303 C322C104K5R5TA7303 C322                           C322C104K5R5TA7303  1
+C4       C322C104K5R5TA7303 C322C104K5R5TA7303 C322                           C322C104K5R5TA7303  1
+D4       BAV20-TAP          BAV20-TAP          DIOAD950W60L350D150            BAV20-TAP           1
+IC1      MSP430G2231IN14    MSP430G2231IN14    DIP254P762X508-14              MSP430G2231IN14     1
+J1       53047-0210         53047-0210         53047-0210                     53047-0210          1
+J3       53047-0210         53047-0210         53047-0210                     53047-0210          1
+J4       0530480410         0530480410         SHDR4W35P0X125_1X4_675X550X350 0530480410          1
+J6       0530480410         0530480410         SHDR4W35P0X125_1X4_675X550X350 0530480410          1
+J7                          CONN_01            1X01                           SparkFun-Connectors 1
+J9                          CONN_01            1X01                           SparkFun-Connectors 1
+J15      53047-0210         53047-0210         53047-0210                     53047-0210          1
+J26                         CONN_01            1X01                           SparkFun-Connectors 1
+J38                         CONN_01            1X01                           SparkFun-Connectors 1
+J63      53047-0210         53047-0210         53047-0210                     53047-0210          1
+Q2       2N4401             2N4401             CS_TO-92                       2N4401              1
+Q3       2N4401             2N4401             CS_TO-92                       2N4401              1
+R2       MRS25000C1002FRP00 MRS25000C1002FRP00 RESAD1650W60L650D250           SamacSys_Parts      1
+R3       MOS1CT528R101J     MOS1CT528R101J     RESAD2100W60L900D300           SamacSys_Parts      1
+R4       MRS25000C1002FRP00 MRS25000C1002FRP00 RESAD1650W60L650D250           SamacSys_Parts      1
+R7       MRS25000C1002FRP00 MRS25000C1002FRP00 RESAD1650W60L650D250           SamacSys_Parts      1
+R10      MRS25000C1002FRP00 MRS25000C1002FRP00 RESAD1650W60L650D250           SamacSys_Parts      1
+R11      3K 
+R12      MRS25000C1002FRP00 MRS25000C1002FRP00 RESAD1650W60L650D250           SamacSys_Parts      1
+R17      MRS25000C1101FRP00 MRS25000C1101FRP00 RESAD1650W60L650D250           MRS25000C1101FRP00  1
