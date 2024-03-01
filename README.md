@@ -51,7 +51,7 @@ It is also possible to use the camera trigger mode for frame-by-frame transfer.
 Use the DSLR.zip gerber file to order the  PCB. The cabling instructions are enclosed here in this repository.
 
 Magic Lantern Mark2 mods:
-https://magiclantern.fm/
+https://magiclantern.fm/  
 https://www.youtube.com/watch?v=UYboGulOi0g
 
 
